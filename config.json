@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokendecrypt",
+        "uuid": 9241155,
+        "checksum": "kpphq"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
